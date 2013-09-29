@@ -7,6 +7,10 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<!--    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">-->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+
     <link rel="apple-touch-icon-precomposed" href="icons/icon_57.png" />
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="icons/icon_72.png" />
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="icons/icon_114.png" />
