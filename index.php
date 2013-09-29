@@ -20,7 +20,7 @@
 <a name="home"></a>
 
 <div class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container">
+    <div class="conditional-container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                 <span class="icon-bar"></span>
@@ -43,9 +43,7 @@
     </div>
 </div>
 
-<div class="x-banner">
-    <img src="large/children_on_couch.jpg" style="width:1800px;position:relative;top:-400px"/>
-</div>
+<div class="x-banner"><img src="large/children_on_couch.jpg"/></div>
 
 <a name="purpose"></a>
 
@@ -54,9 +52,7 @@
     <?php include 'pages/mission.php'; ?>
 </div>
 
-<div class="x-banner">
-    <img src="large/large_group.jpg" style="width:1800px;position:relative;top:-400px"/>
-</div>
+<div class="x-banner"><img src="large/large_group.jpg"/></div>
 
 <a name="programs"></a>
 
@@ -117,9 +113,7 @@
     </div>
 </div>
 
-<div class="x-banner">
-    <img src="large/classroom.jpg" style="width:1800px;position:relative;top:-200px"/>
-</div>
+<div class="x-banner"><img src="large/classroom.jpg"/></div>
 
 <a name="partnerships"></a>
 
@@ -142,9 +136,7 @@
     </div>
 </div>
 
-<div class="x-banner">
-    <img src="large/classroom.jpg" style="width:1800px;position:relative;top:-200px"/>
-</div>
+<div class="x-banner"><img src="large/classroom.jpg"/></div>
 
 <a name="donations"></a>
 
@@ -167,9 +159,7 @@
     </div>
 </div>
 
-<div class="x-banner">
-    <img src="large/large_group.jpg" style="width:1800px;position:relative;top:-400px"/>
-</div>
+<div class="x-banner"><img src="large/large_group.jpg"/></div>
 
 <a name="board"></a>
 
@@ -226,11 +216,7 @@
     </div>
 </div>
 
-<div class="x-banner">
-    <img src="large/large_group.jpg" style="width:1800px;position:relative;top:-400px"/>
-</div>
-
-
+<div class="x-banner"><img src="large/large_group.jpg"/></div>
 
 <a name="contact"></a>
 
@@ -305,7 +291,6 @@
         </div>
     </div>
 </div>
-
 
 <div class="container">
     <footer>

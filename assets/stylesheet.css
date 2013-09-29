@@ -4,10 +4,45 @@ body {
 }
 
 .x-banner {
-    height: 500px;
+    height: 600px;
     overflow: hidden;
     text-align: center;
     position: relative;
+}
+
+.x-banner img {
+    margin-left: -800px;
+}
+
+@media (min-width: 480px) {
+    .x-banner img {
+        margin-left: -700px;
+    }
+}
+
+@media (min-width: 768px) {
+    .x-banner img {
+        margin-left: -600px;
+    }
+}
+
+@media (min-width: 992px) {
+    .x-banner img {
+        margin-left: -400px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .x-banner img {
+        margin-left: -200px;
+    }
+}
+
+@media (min-width: 1700px) {
+    .x-banner img {
+        width: 100%;
+        margin-left: auto;
+    }
 }
 
 .navbar-inverse {
@@ -34,6 +69,38 @@ body {
 
 .navbar-inverse .navbar-brand {
     color: #fff;
+}
+
+@media (max-width: 990px) {
+    .nav > li > a {
+        padding-left: 12px !important;
+        padding-right: 12px !important;
+    }
+}
+
+@media (max-width: 890px) {
+    .nav > li > a {
+        padding-left: 9px !important;
+        padding-right: 9px !important;
+    }
+}
+
+@media (max-width: 820px) {
+    .nav > li > a {
+        padding-left: 4px !important;
+        padding-right: 4px !important;
+    }
+}
+
+.conditional-container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+@media (max-width: 1170px) {
+    .conditional-container {
+        width: 100%;
+    }
 }
 
 form#contact_us .form-group label {
