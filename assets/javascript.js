@@ -2,6 +2,7 @@ $(function(){
 
   var $root = $('html, body');
   $('a').click(function() {
+    $(".navbar-collapse").collapse('hide');
     var href = $.attr(this, 'href');
     $root.animate({
       scrollTop: $('[name="' + $.attr(this, 'href').substr(1) + '"]').offset().top
