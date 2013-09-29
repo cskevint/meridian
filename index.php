@@ -7,6 +7,11 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <link rel="apple-touch-icon-precomposed" href="icons/icon_57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="icons/icon_72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="icons/icon_114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="icons/icon_144.png" />
+
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/stylesheet.css">
 
