@@ -80,9 +80,7 @@
     <div class="row">
         <div class="col-sm-6 col-md-3">
             <div class="thumbnail" style="min-height:400px">
-                <div style="height:165px;overflow:hidden">
-                    <img src="large/education.jpg" style="width:300px;" alt="...">
-                </div>
+                <img src="small/education.jpg" style="width:300px;" alt="Education">
                 <div class="caption">
                     <h3>Education</h3>
                     <p>The reading and discussions of stories focus on developing the power of expression as well as exposing junior youth to social concepts such as kindness and justice.</p>
@@ -91,9 +89,7 @@
         </div>
         <div class="col-sm-6 col-md-3">
             <div class="thumbnail" style="min-height:400px">
-                <div style="height:165px;overflow:hidden">
-                    <img src="large/service.jpg" style="width:300px;" alt="...">
-                </div>
+                <img src="small/service.jpg" style="width:300px;" alt="Service">
                 <div class="caption">
                     <h3>Service</h3>
                     <p>Service projects utilize their energy to help the community or its members. Projects may start small (e.g. picking up trash) but slowly increase in complexity as their capacity to assess needs and plan effectively increases.</p>
@@ -102,9 +98,7 @@
         </div>
         <div class="col-sm-6 col-md-3">
             <div class="thumbnail" style="min-height:400px">
-                <div style="height:165px;overflow:hidden">
-                    <img src="large/arts_drama.jpg" style="width:300px;" alt="...">
-                </div>
+                <img src="small/arts_drama.jpg" style="width:300px;" alt="Arts">
                 <div class="caption">
                     <h3>Arts</h3>
                     <p>Artistic projects enhance their ability to think creatively. Drawing and illustration can be a weekly element in the group meeting. Music and dramatic presentations are also used often.</p>
@@ -113,10 +107,7 @@
         </div>
         <div class="col-sm-6 col-md-3">
             <div class="thumbnail" style="min-height:400px">
-                <div style="height:165px;overflow:hidden">
-
-                    <img src="large/health_soccer.jpg" style="width:300px;" alt="...">
-                </div>
+                <img src="small/health_soccer.jpg" style="width:300px;" alt="Health">
                 <div class="caption">
                     <h3>Health</h3>
                     <p>Healthy recreation, sports, and cooperative games reinforce the lesson plans. Nearby neighborhood parks and schools offer open spaces for formal and informal games.</p>
