@@ -1,0 +1,53 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.x-banner {
+    height: 500px;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+
+.navbar-inverse {
+    background-color: #0A60AE;
+    border: 0 none;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: #023A69;
+}
+
+.navbar-inverse .navbar-nav > li > a,
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    background-color: #023A69;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+form#contact_us .form-group label {
+    display: none !important;
+}
+
+ul#contact_details {
+    margin-top: 20px;
+    padding-left: 20px !important;
+}
+ul#contact_details li {
+    list-style: none;
+    margin-top: 5px;
+}
+ul#contact_details li span {
+    margin-right: 10px;
+}
