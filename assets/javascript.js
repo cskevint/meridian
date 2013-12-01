@@ -20,7 +20,6 @@ $(function(){
   });
 
   $('#contact_us').validate({
-    debug: true,
     highlight: function(element) {
       $(element).closest('.form-group').removeClass('has-success').addClass('has-error');
     },
