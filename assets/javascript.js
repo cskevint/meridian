@@ -19,7 +19,7 @@ $(function(){
     return false;
   });
 
-  $('#contact_us').validate({
+  $('#contact_us').append("<input type='hidden' name='antispam' value='check'/>").validate({
     highlight: function(element) {
       $(element).closest('.form-group').removeClass('has-success').addClass('has-error');
     },
