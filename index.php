@@ -38,11 +38,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Meridian Health Foundation</a>
+                <a class="navbar-brand" href="#home">Meridian Health Foundation</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse navbar-right">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#home">Home</a></li>
+                    <li><a href="http://meridianfoundation.tumblr.com">News</a></li>
                     <li><a href="#purpose">Purpose</a></li>
                     <li><a href="#programs">Programs</a></li>
                     <li><a href="#partnerships">Partnerships</a></li>
