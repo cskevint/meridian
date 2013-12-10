@@ -1,6 +1,8 @@
-<?php session_start(); ?>
+<?php
+    session_start();
+?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,6 +29,8 @@
     <script type="text/javascript" src="assets/javascript.js"></script>
 </head>
 <body data-spy="scroll" data-target="#navbar">
+
+<?php include_once("pages/analyticstracking.php") ?>
 
 <div id="home">
     <a name="home"></a>
