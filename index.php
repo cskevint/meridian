@@ -1,5 +1,5 @@
 <?php
-    session_start();
+session_start();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -10,14 +10,14 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">-->
+    <!--    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">-->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-touch-fullscreen" content="yes">
 
-    <link rel="apple-touch-icon-precomposed" href="icons/icon_57.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="icons/icon_72.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="icons/icon_114.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="icons/icon_144.png" />
+    <link rel="apple-touch-icon-precomposed" href="icons/icon_57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="icons/icon_72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="icons/icon_114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="icons/icon_144.png"/>
 
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/stylesheet.css">
@@ -25,15 +25,17 @@
 
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js"></script>
+    <script type="text/javascript"
+            src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js"></script>
     <script type="text/javascript" src="assets/javascript.js"></script>
 </head>
 <body data-spy="scroll" data-target="#navbar">
 
-<?php include_once("pages/analyticstracking.php") ?>
+<?php include_once("pages/analytics_tracking.php") ?>
 
 <div id="home">
     <a name="home"></a>
+
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="conditional-container">
             <div class="navbar-header">
@@ -77,6 +79,7 @@
 
     <div class="container" style="margin-bottom:45px;padding-top: 48px;">
         <h1>Programs</h1>
+
         <div class="row">
             <div class="col-lg-8">
                 <?php include 'pages/programs.php'; ?>
@@ -84,7 +87,10 @@
             <div class="col-lg-4">
                 <blockquote>
                     <p>
-                        The merit of the junior youth spiritual empowerment program lies, first and foremost, in its effectiveness at enhancing the power of expression and the quality of spiritual perception within its participants and in assisting them to develop the capabilities necessary for a life of meaningful service to their communities.
+                        The merit of the junior youth spiritual empowerment program lies, first and foremost, in its
+                        effectiveness at enhancing the power of expression and the quality of spiritual perception
+                        within its participants and in assisting them to develop the capabilities necessary for a life
+                        of meaningful service to their communities.
                     </p>
                     <small>
                         Universal House of Justice, November 14 2012
@@ -96,36 +102,50 @@
             <div class="col-sm-6 col-md-3">
                 <div class="thumbnail" style="min-height:400px">
                     <img src="small/education.jpg" style="width:300px;" alt="Education">
+
                     <div class="caption">
                         <h3>Education</h3>
-                        <p>The reading and discussions of stories focus on developing the power of expression as well as exposing junior youth to social concepts such as kindness and justice.</p>
+
+                        <p>The reading and discussions of stories focus on developing the power of expression as well as
+                            exposing junior youth to social concepts such as kindness and justice.</p>
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-3">
                 <div class="thumbnail" style="min-height:400px">
                     <img src="small/service.jpg" style="width:300px;" alt="Service">
+
                     <div class="caption">
                         <h3>Service</h3>
-                        <p>Service projects utilize their energy to help the community or its members. Projects may start small (e.g. picking up trash) but slowly increase in complexity as their capacity to assess needs and plan effectively increases.</p>
+
+                        <p>Service projects utilize their energy to help the community or its members. Projects may
+                            start small (e.g. picking up trash) but slowly increase in complexity as their capacity to
+                            assess needs and plan effectively increases.</p>
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-3">
                 <div class="thumbnail" style="min-height:400px">
                     <img src="small/arts_drama.jpg" style="width:300px;" alt="Arts">
+
                     <div class="caption">
                         <h3>Arts</h3>
-                        <p>Artistic projects enhance their ability to think creatively. Drawing and illustration can be a weekly element in the group meeting. Music and dramatic presentations are also used often.</p>
+
+                        <p>Artistic projects enhance their ability to think creatively. Drawing and illustration can be
+                            a weekly element in the group meeting. Music and dramatic presentations are also used
+                            often.</p>
                     </div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-3">
                 <div class="thumbnail" style="min-height:400px">
                     <img src="small/health_soccer.jpg" style="width:300px;" alt="Health">
+
                     <div class="caption">
                         <h3>Health</h3>
-                        <p>Healthy recreation, sports, and cooperative games reinforce the lesson plans. Nearby neighborhood parks and schools offer open spaces for formal and informal games.</p>
+
+                        <p>Healthy recreation, sports, and cooperative games reinforce the lesson plans. Nearby
+                            neighborhood parks and schools offer open spaces for formal and informal games.</p>
                     </div>
                 </div>
             </div>
@@ -133,13 +153,14 @@
     </div>
 </div>
 
-<div class="x-banner"><img src="large/classroom.jpg"/></div>
+<div class="x-banner"><img src="large/design_thinking.jpg"/></div>
 
 <div id="partnerships">
     <a name="partnerships"></a>
 
     <div class="container" style="margin-bottom:45px;padding-top: 48px;">
         <h1>Partnerships</h1>
+
         <div class="row">
             <div class="col-lg-8">
                 <?php include 'pages/partnerships.php'; ?>
@@ -147,7 +168,9 @@
             <div class="col-lg-4">
                 <blockquote>
                     <p>
-                        Let them come to realize the full significance of their efforts to help young people form a strong moral identity in their early adolescent years and empower them to contribute to the well-being of their communities.
+                        Let them come to realize the full significance of their efforts to help young people form a
+                        strong moral identity in their early adolescent years and empower them to contribute to the
+                        well-being of their communities.
                     </p>
                     <small>
                         Universal House of Justice, October 20, 2008
@@ -165,6 +188,7 @@
 
     <div class="container" style="margin-bottom:45px;padding-top: 48px;">
         <h1>Donations</h1>
+
         <div class="row">
             <div class="col-lg-8">
                 <?php include 'pages/donations.php'; ?>
@@ -172,7 +196,10 @@
             <div class="col-lg-4">
                 <blockquote>
                     <p>
-                        To every generation of young believers comes an opportunity to make a contribution to the fortunes of humanity, unique to their time of life. For the present generation, the moment has come to reflect, to commit, to steel themselves for a life of service from which blessing will flow in abundance.
+                        To every generation of young believers comes an opportunity to make a contribution to the
+                        fortunes of humanity, unique to their time of life. For the present generation, the moment has
+                        come to reflect, to commit, to steel themselves for a life of service from which blessing will
+                        flow in abundance.
                     </p>
                     <small>
                         Universal House of Justice, February 8, 2013
@@ -190,9 +217,11 @@
 
     <div class="container" style="margin-bottom:45px;padding-top: 48px;">
         <h1>Board</h1>
+
         <div class="row">
             <div class="col-lg-6 text-center">
                 <img src="small/Selena-Trotter.jpg" class="img-circle"/>
+
                 <h2>
                     Selena Trotter (Executive Director)
                 </h2>
@@ -205,9 +234,11 @@
             </div>
             <div class="col-lg-6 text-center">
                 <img src="small/Deanne-LaRue.jpg" class="img-circle"/>
+
                 <h2>
                     Deanne LaRue (Adviser)
                 </h2>
+
                 <p class="text-left">
                     <small>
                         <?php include 'pages/board_deanne.php'; ?>
@@ -218,9 +249,11 @@
         <div class="row">
             <div class="col-lg-6 text-center">
                 <img src="small/KevinTrotter.jpg" class="img-circle"/>
+
                 <h2>
                     Kevin Trotter
                 </h2>
+
                 <p class="text-left">
                     <small>
                         <?php include 'pages/board_kevin.php'; ?>
@@ -229,9 +262,11 @@
             </div>
             <div class="col-lg-6 text-center">
                 <img src="small/Oliver-Oxenham.jpg" class="img-circle"/>
+
                 <h2>
                     Oliver Oxenham
                 </h2>
+
                 <p class="text-left">
                     <small>
                         <?php include 'pages/board_oliver.php'; ?>
@@ -242,7 +277,7 @@
     </div>
 </div>
 
-<div class="x-banner"><img src="large/large_group.jpg"/></div>
+<div class="x-banner"><img src="large/lemonade_stand.jpg"/></div>
 
 <div id="contact">
     <a name="contact"></a>
@@ -250,21 +285,24 @@
     <div class="well" style="border-radius:0; border:0 none;">
         <div class="container" style="margin-bottom:45px;padding-top: 48px;">
             <h1>Contact</h1>
+
             <div class="row">
                 <div class="col-lg-4">
                     <?php
-                        if(isset($_SESSION['notice'])) {
-                            echo '<div class="alert alert-info">'.$_SESSION['notice'].'</div>';
-                            unset($_SESSION['notice']);
-                        }
+                    if (isset($_SESSION['notice'])) {
+                        echo '<div class="alert alert-info">' . $_SESSION['notice'] . '</div>';
+                        unset($_SESSION['notice']);
+                    }
                     ?>
                     <h4>Send us a note:</h4>
+
                     <form id="contact_us" action="mail.php" method="post">
                         <div class="form-group">
                             <input class="form-control" type="text" name="name" value="" placeholder="Name" required/>
                         </div>
                         <div class="form-group">
-                            <input class="form-control" type="email" name="email" value="" placeholder="Email" required/>
+                            <input class="form-control" type="email" name="email" value="" placeholder="Email"
+                                   required/>
                         </div>
                         <div class="form-group">
                             <textarea class="form-control" name="message" placeholder="Message" required></textarea>
@@ -314,7 +352,10 @@
                 <div class="col-lg-4">
                     <blockquote>
                         <p>
-                            To every generation of young believers comes an opportunity to make a contribution to the fortunes of humanity, unique to their time of life. For the present generation, the moment has come to reflect, to commit, to steel themselves for a life of service from which blessing will flow in abundance.
+                            To every generation of young believers comes an opportunity to make a contribution to the
+                            fortunes of humanity, unique to their time of life. For the present generation, the moment
+                            has come to reflect, to commit, to steel themselves for a life of service from which
+                            blessing will flow in abundance.
                         </p>
                         <small class="text-right">
                             Universal House of Justice, February 8, 2013
