@@ -60,7 +60,14 @@ session_start();
     </div>
 </div>
 
-<div class="x-banner"><img src="large/design_thinking.jpg"/></div>
+<div class="x-banner">
+    <? if($_REQUEST['message'] == 'thanks') { ?>
+        <div class="container">
+            <h1 style="position:absolute;left:0;right:0;text-align:center;color:white">Thank you!</h1>
+        </div>
+    <? } ?>
+    <img src="large/design_thinking.jpg"/>
+</div>
 
 <div id="purpose">
     <a name="purpose"></a>
