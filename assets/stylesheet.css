@@ -10,31 +10,56 @@ body {
     position: relative;
 }
 
+.x-banner {
+    height: 300px;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+
 .x-banner img {
-    margin-left: -800px;
+    margin-left: -200px;
+    width: 650px;
+    margin-top: 10px;
 }
 
 @media (min-width: 480px) {
+    .x-banner {
+        height: 400px;
+    }
     .x-banner img {
-        margin-left: -700px;
+        margin-left: -250px;
+        width: 925px;
+        margin-top: 10px;
     }
 }
 
 @media (min-width: 768px) {
+    .x-banner {
+        height: 500px;
+    }
     .x-banner img {
-        margin-left: -600px;
+        margin-left: -100px;
+        width: 1200px;
+        margin-top: 0;
     }
 }
 
 @media (min-width: 992px) {
+    .x-banner {
+        height: 600px;
+    }
     .x-banner img {
-        margin-left: -400px;
+        margin-left: -50px;
+        width: 1600px;
+        margin-top: 0;
     }
 }
 
 @media (min-width: 1200px) {
     .x-banner img {
-        margin-left: -200px;
+        margin-left: 0px;
+        width: 1920px;
     }
 }
 
