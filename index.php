@@ -156,9 +156,18 @@ session_start();
                 </div>
             </div>
         </div>
+ 		<div class="row">
+     		<div class="col-lg-4">
+				<h4>Increase the Peace</h4>
+				<p>Kids around California work together to bring social change by talking about and finding solutions on how to live in a safer and more connected community.</p>
+			</div>
+        	<div class="col-lg-8 text-center">
+				<iframe width="560" height="315" src="//www.youtube.com/embed/zQQ_2kzaZ8c" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
     </div>
 </div>
-
+	
 <div class="x-banner"><img src="large/bosch_group_picture.jpg"/></div>
 
 <div id="partnerships">
