@@ -84,26 +84,37 @@ session_start();
     <a name="programs"></a>
 
     <div class="container" style="margin-bottom:45px;padding-top: 48px;">
-        <h1>Programs</h1>
-
         <div class="row">
             <div class="col-lg-8">
+                <h1>Programs</h1>
                 <?php include 'pages/programs.php'; ?>
             </div>
             <div class="col-lg-4">
-                <blockquote>
-                    <p>
-                        The merit of the junior youth spiritual empowerment program lies, first and foremost, in its
-                        effectiveness at enhancing the power of expression and the quality of spiritual perception
-                        within its participants and in assisting them to develop the capabilities necessary for a life
-                        of meaningful service to their communities.
-                    </p>
-                    <small>
-                        Universal House of Justice, November 14 2012
-                    </small>
-                </blockquote>
+                <div class="bg-primary" style="padding: 12px;color: white;">
+                    <h3 class="text-center">Get Involved</h4>
+                    <div style="margin:6px;">
+                        <em>Want to know more? Drop us a note and we'll get in touch with all the details.</em>
+                    </div>   
+                    <form>
+                        <div class="form-group">
+                            <label for="contactname">Name</label>
+                            <input type="text" class="form-control" id="contactname" placeholder="What's your name?">
+                        </div>
+                        <div class="form-group">
+                            <label for="contactmethod">Phone or Email</label>
+                            <input type="text" class="form-control" id="contactmethod" placeholder="What is your phone number or email address?">
+                        </div>
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-default">Contact me!</button>
+                        </div>
+                    </form>
+                    <div style="margin:6px;">
+                        <em>* We will never share your information with third parties.</em>
+                    </div> 
+                </div>
             </div>
         </div>
+        <hr>
         <div class="row">
             <div class="col-sm-6 col-md-3">
                 <div class="thumbnail" style="min-height:400px">

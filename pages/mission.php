@@ -5,5 +5,5 @@
     To examine the forces shaping our society and to discover our role in contributing to its transformation through action.
     To work with young people in the realization that their life must be endowed with a sense of purpose; a purpose that involves taking charge of their own personal growth and contributing to the transformation of society.
     This two-fold moral purpose will naturally find expression in each youth, which will serve their community.
-    Our programs encourage education in both the academic and spiritual development of neighborhood communities using tutoring, technology and the arts, to advance their capacity.
+    Our programs encourage education in both the academic and spiritual development of neighborhood communities using mentoring, technology and the arts, to advance their capacity.
 </p>
