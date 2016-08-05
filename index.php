@@ -234,60 +234,88 @@ session_start();
         <h1>Board</h1>
 
         <div class="row">
-            <div class="col-lg-6 text-center">
+            <div class="col-lg-4 text-center">
                 <img src="small/Selena-Trotter.jpg" class="img-circle"/>
 
                 <h2>
-                    Selena Trotter (Executive Director)
+                    Selena Trotter
                 </h2>
+				<h4>
+					Executive Director
+				</h4>
 
-                <p class="text-left">
+                <!-- <p class="text-left">
                     <small>
-                        <?php include 'pages/board_selena.php'; ?>
+                        <php include 'pages/board_selena.php'; ?>
                     </small>
-                </p>
+                </p> -->
             </div>
-            <div class="col-lg-6 text-center">
-                <img src="small/Deanne-LaRue.jpg" class="img-circle"/>
+            <div class="col-lg-4 text-center">
+                <img src="small/Saman-Farid.jpg" class="img-circle"/>
 
                 <h2>
-                    Deanne LaRue (Adviser)
+                    Saman Farid
                 </h2>
+				<h4>
+					Treasurer
+				</h4>
 
-                <p class="text-left">
+<!--                <p class="text-left">
                     <small>
-                        <?php include 'pages/board_deanne.php'; ?>
+                        <php include 'pages/board_kevin.php'; ?>
                     </small>
-                </p>
+                </p> -->
+            </div>			
+            
+            <div class="col-lg-4 text-center">
+                <img src="small/Milly-Farid.jpg" class="img-circle"/>
+
+                <h2>
+                    Amelia Farid
+                </h2>
+				<h4>
+					Secretary
+				</h4>	
+			
+
+                <!-- <p class="text-left">
+                    <small>
+                        <php include 'pages/board_oliver.php'; ?>
+                    </small>
+                </p> -->
             </div>
         </div>
         <div class="row">
             <div class="col-lg-6 text-center">
-                <img src="small/KevinTrotter.jpg" class="img-circle"/>
+                <img src="small/Deanne-LaRue.jpg" class="img-circle"/>
+
+                <h2>
+                    Deanne LaRue
+                </h2>
+				<h4>
+					Adviser
+				</h4>
+
+                <!-- <p class="text-left">
+                    <small>
+                        <php include 'pages/board_deanne.php'; ?>
+                    </small>
+                </p> -->
+            </div>
+            <div class="col-lg-6 text-center">
+                <img src="small/Kevin-Trotter.jpg" class="img-circle"/>
 
                 <h2>
                     Kevin Trotter
                 </h2>
 
-                <p class="text-left">
+<!--                <p class="text-left">
                     <small>
-                        <?php include 'pages/board_kevin.php'; ?>
+                        <php include 'pages/board_kevin.php'; ?>
                     </small>
-                </p>
+                </p> -->
             </div>
-            <div class="col-lg-6 text-center">
-                <img src="small/Oliver-Oxenham.jpg" class="img-circle"/>
-
-                <h2>
-                    Oliver Oxenham
-                </h2>
-
-                <p class="text-left">
-                    <small>
-                        <?php include 'pages/board_oliver.php'; ?>
-                    </small>
-                </p>
-            </div>
+            
         </div>
     </div>
 </div>
