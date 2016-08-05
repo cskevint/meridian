@@ -1,6 +1,5 @@
 <p>
-    Our programs encourage education in both the academic and spiritual development of neighborhood communities using mentoring, technology and the arts, to advance their capacity.
-    The work we do takes place primarily in neighborhoods where groups meet in homes, community centers and schools.
+    Meridian's programs use academic and spiritual education materials for the youth within a neighborhood to advance their capacity for service to others. As youth are engaged with new ideas, technology and arts, they are encouraged to become agents of change for their community and a cycle of growth and giving back to younger kids is maintained. The work we do takes place primarily in neighborhoods where groups meet in homes, community centers and schools.
 </p>
 <blockquote>
     <p>
@@ -14,7 +13,7 @@
     </small>
 </blockquote>
 <p>
-It is essential then that ever-growing numbers of those in the prime of their lives “steel themselves for a life of service” to society. Naturally, many matters occupy their time and energy: education, work, leisure, spiritual life, physical health. But they learn to avoid a fragmented approach to life that fails to see the connections among life’s various aspects. Such a disjointed view of life often makes individuals fall victim to the false choices suggested in questions such as whether one should study or serve, advance materially or contribute to the betterment of others, pursue work or become dedicated to service. Failure to approach one’s life as a coherent whole often breeds anxiety and confusion. Through service, young people can learn to foster a life in which its various aspects complement each other.
+    It is essential then that ever-growing numbers of those in the prime of their lives “steel themselves for a life of service” to society. Naturally, many matters occupy their time and energy: education, work, leisure, spiritual life, physical health. But they learn to avoid a fragmented approach to life that fails to see the connections among life’s various aspects. Such a disjointed view of life often makes individuals fall victim to the false choices suggested in questions such as whether one should study or serve, advance materially or contribute to the betterment of others, pursue work or become dedicated to service. Failure to approach one’s life as a coherent whole often breeds anxiety and confusion. Through service, young people can learn to foster a life in which its various aspects complement each other.
 </p>
 <blockquote>
     <p>

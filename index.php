@@ -189,7 +189,7 @@ session_start();
     </div>
 </div>
 	
-<div class="x-banner"><img src="large/bosch_group_picture.jpg"/></div>
+<div class="x-banner"><img src="large/exercise.jpg"/></div>
 
 <div id="partnerships">
     <a name="partnerships"></a>

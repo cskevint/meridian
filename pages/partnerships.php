@@ -26,3 +26,5 @@
         <a href="#contact">Contact us</a> electronically or by mail.
     </li>
 </ul>
+
+<h3>Badi Foundation</h3>
