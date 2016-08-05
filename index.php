@@ -202,16 +202,7 @@ session_start();
                 <?php include 'pages/partnerships.php'; ?>
             </div>
             <div class="col-lg-4">
-                <blockquote>
-                    <p>
-                        Let them come to realize the full significance of their efforts to help young people form a
-                        strong moral identity in their early adolescent years and empower them to contribute to the
-                        well-being of their communities.
-                    </p>
-                    <small>
-                        Universal House of Justice, October 20, 2008
-                    </small>
-                </blockquote>
+                
             </div>
         </div>
     </div>
@@ -437,7 +428,7 @@ session_start();
 
 <div class="container">
     <footer>
-        <p>&copy; Meridian Health Foundation 2013</p>
+        <p>&copy; Meridian Health Foundation 2013 - A <a href='http://www.bahai.org/'>Bah&aacute;'&iacute;</a>-inspired organization</p>
     </footer>
 </div>
 
