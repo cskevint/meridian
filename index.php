@@ -84,9 +84,9 @@ session_start();
     <a name="programs"></a>
 
     <div class="container" style="margin-bottom:45px;padding-top: 48px;">
+        <h1>Programs</h1>
         <div class="row">
             <div class="col-lg-8">
-                <h1>Programs</h1>
                 <?php include 'pages/programs.php'; ?>
             </div>
             <div class="col-lg-4">
@@ -123,7 +123,7 @@ session_start();
                     <div class="caption">
                         <h3>Education</h3>
 
-                        <p>The reading and discussions of stories focus on developing the power of expression as well as
+                        <p>The reading and discussion of stories focus on developing the power of expression as well as
                             exposing junior youth to social concepts such as kindness and justice.</p>
                     </div>
                 </div>
@@ -198,11 +198,23 @@ session_start();
         <h1>Partnerships</h1>
 
         <div class="row">
-            <div class="col-lg-8">
+            <div class="col-lg-12">
                 <?php include 'pages/partnerships.php'; ?>
             </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8">
+                <h3>
+                    Badi Foundation
+                </h3>
+                <p>
+                    The <a href="http://www.badi-foundation.org/en/" target="_blank">Badi Foundation</a> implements capacity building initiatives that serve children in mainland China. Both Meridian and Badi believe that true development must emerge from within a local population and that capacity building must be long term beginning at the grassroots to formulate an approach to improve communities. This process is made systematic through an emphasis on collective learning from shared experience in the field. 
+                </p>
+                <p>
+                    The rapidly changing social landscape in both China and the world leaves many, especially the young, questioning their identity, their future, and their place in society. Youth in particular seem to be searching for standards by which to govern their lives and decisions. Both of these organizations share the goal of working with junior youth for these reasons.
+                </p>
+            </div>
             <div class="col-lg-4">
-                
             </div>
         </div>
     </div>

@@ -1,5 +1,5 @@
 <p>
-    Meridian's programs use academic and spiritual education materials for the youth within a neighborhood to advance their capacity for service to others. As youth are engaged with new ideas, technology and arts, they are encouraged to become agents of change for their community and a cycle of growth and giving back to younger kids is maintained. The work we do takes place primarily in neighborhoods where groups meet in homes, community centers and schools.
+    Meridian's programs use academic and spiritual education materials for the youth within a neighborhood to advance their capacity for service others. As youth are engaged with new ideas, technology and arts, they are encouraged to become agents of change for their community and a cycle of growth and giving back to younger kids is maintained. The work we do takes place primarily in neighborhoods where groups meet in homes, community centers and schools.
 </p>
 <blockquote>
     <p>
