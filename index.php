@@ -208,7 +208,7 @@ session_start();
     </div>
 </div>
 
-<div class="x-banner"><img src="large/classroom.jpg"/></div>
+<div class="x-banner"><img src="large/high_school.jpg"/></div>
 
 <div id="donations">
     <a name="donations"></a>
