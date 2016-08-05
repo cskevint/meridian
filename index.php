@@ -202,19 +202,21 @@ session_start();
                 <?php include 'pages/partnerships.php'; ?>
             </div>
         </div>
-        <div class="row">
+        <hr>
+        <div class="row well">
+            <p class="lead">
+                Badi Foundation
+            </p>
+            <div class="col-lg-4">
+                <img src="small/badi-foundation.jpg" class="img-responsive"/>
+            </div>
             <div class="col-lg-8">
-                <h3>
-                    Badi Foundation
-                </h3>
                 <p>
                     The <a href="http://www.badi-foundation.org/en/" target="_blank">Badi Foundation</a> implements capacity building initiatives that serve children in mainland China. Both Meridian and Badi believe that true development must emerge from within a local population and that capacity building must be long term beginning at the grassroots to formulate an approach to improve communities. This process is made systematic through an emphasis on collective learning from shared experience in the field. 
                 </p>
                 <p>
                     The rapidly changing social landscape in both China and the world leaves many, especially the young, questioning their identity, their future, and their place in society. Youth in particular seem to be searching for standards by which to govern their lives and decisions. Both of these organizations share the goal of working with junior youth for these reasons.
                 </p>
-            </div>
-            <div class="col-lg-4">
             </div>
         </div>
     </div>
@@ -423,13 +425,10 @@ session_start();
                 <div class="col-lg-4">
                     <blockquote>
                         <p>
-                            To every generation of young believers comes an opportunity to make a contribution to the
-                            fortunes of humanity, unique to their time of life. For the present generation, the moment
-                            has come to reflect, to commit, to steel themselves for a life of service from which
-                            blessing will flow in abundance.
+                            The future of today’s society will depend to a great extent on the manner in which educational programs and methods are designed to release the latent potential of youth and prepare them for the world they will inherit. 
                         </p>
                         <small class="text-right">
-                            Universal House of Justice, February 8, 2013
+                            Bah&aacute;'&iacute; International Community <a href="https://www.bic.org/statements/youth-and-adolescents-education-service-community#mEH2xWLAGGsXMqLE.99">statement</a>
                         </small>
                     </blockquote>
                 </div>
@@ -440,7 +439,7 @@ session_start();
 
 <div class="container">
     <footer>
-        <p>&copy; Meridian Health Foundation 2013 - A <a href='http://www.bahai.org/'>Bah&aacute;'&iacute;</a>-inspired organization</p>
+        <p>&copy; Meridian Health Foundation 2016 - A <a href='http://www.bahai.org/'>Bah&aacute;'&iacute;</a>-inspired organization</p>
     </footer>
 </div>
 
