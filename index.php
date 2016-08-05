@@ -66,7 +66,7 @@ session_start();
             <h1 style="position:absolute;left:0;right:0;text-align:center;color:white">Thank you!</h1>
         </div>
     <? } ?>
-    <img src="large/design_thinking.jpg"/>
+    <img src="large/children_in_field.jpg"/>
 </div>
 
 <div id="purpose">
@@ -156,9 +156,19 @@ session_start();
                 </div>
             </div>
         </div>
+        <div class="row">
+            <div class="col-lg-8 text-center">
+                <iframe src="https://player.vimeo.com/video/144407938" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+            <div class="col-lg-4">
+				<h3>Diana's Junior Youth Group</h3>
+				<p>Diana talks about how she became involved serving as an animator for the Junior Youth Spiritual Empowerment Program.</p>
+			</div>
+        </div>
+        <hr>
  		<div class="row">
      		<div class="col-lg-4">
-				<h4>Increase the Peace</h4>
+				<h3>Increase the Peace</h3>
 				<p>Kids around California work together to bring social change by talking about and finding solutions on how to live in a safer and more connected community.</p>
 			</div>
         	<div class="col-lg-8 text-center">
@@ -308,6 +318,9 @@ session_start();
                 <h2>
                     Kevin Trotter
                 </h2>
+				<h4>
+					Member
+				</h4>
 
 <!--                <p class="text-left">
                     <small>
@@ -320,7 +333,7 @@ session_start();
     </div>
 </div>
 
-<div class="x-banner"><img src="large/lemonade_stand.jpg"/></div>
+<div class="x-banner"><img src="large/neighborhood_service.jpg"/></div>
 
 <div id="contact">
     <a name="contact"></a>
