@@ -1,11 +1,12 @@
 <p>
     We work with like-minded individuals and organizations in our endeavor to increase the capacity of people willing to work for the betterment of their communities.
 </p>
-
 <h4>
-    Please write a letter of inquiry to the Meridian Health Foundation with the following information:
+    Grant Proposals
 </h4>
-
+<p>
+    Please write a letter of inquiry to the Meridian Health Foundation with the following information:
+</p>
 <ul>
     <li>
         The purpose of the project for which funds are being requested

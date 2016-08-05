@@ -1,5 +1,5 @@
 <?php
-session_start();
+    session_start();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -243,7 +243,7 @@ session_start();
                         flow in abundance.
                     </p>
                     <small>
-                        Universal House of Justice, February 8, 2013
+                        Universal House of Justice
                     </small>
                 </blockquote>
             </div>
@@ -439,7 +439,7 @@ session_start();
 
 <div class="container">
     <footer>
-        <p>&copy; Meridian Health Foundation 2016 - A <a href='http://www.bahai.org/'>Bah&aacute;'&iacute;</a>-inspired organization</p>
+        <p>&copy; Meridian Health Foundation - A <a href='http://www.bahai.org/'>Bah&aacute;'&iacute;</a>-inspired organization</p>
     </footer>
 </div>
 
