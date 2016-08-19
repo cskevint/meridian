@@ -128,6 +128,14 @@ body {
     }
 }
 
+.donations td {
+    padding: 5px;
+}
+
+.donations input {
+    border: 0 none;
+}
+
 form#contact_us .form-group label {
     display: none !important;
 }
