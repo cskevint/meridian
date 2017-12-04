@@ -86,10 +86,10 @@
     <div class="container" style="margin-bottom:45px;padding-top: 48px;">
         <h1>Programs</h1>
         <div class="row">
-            <div class="col-lg-8">
+            <div class="col-lg-12">
                 <?php include 'pages/programs.php'; ?>
             </div>
-            <div class="col-lg-4">
+            <!-- <div class="col-lg-4">
                 <div class="bg-primary" style="padding: 12px;color: white;">
                     <h3 class="text-center">Get Involved</h4>
                     <div style="margin:6px;">
@@ -112,7 +112,7 @@
                         <em>* We will never share your information with third parties.</em>
                     </div> 
                 </div>
-            </div>
+            </div> -->
         </div>
         <hr>
         <div class="row">
@@ -312,7 +312,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-6 text-center">
+            <div class="col-lg-4 text-center">
                 <img src="small/Deanne-LaRue.jpg" class="img-circle"/>
 
                 <h2>
@@ -328,7 +328,7 @@
                     </small>
                 </p> -->
             </div>
-            <div class="col-lg-6 text-center">
+            <div class="col-lg-4 text-center">
                 <img src="small/Kevin-Trotter.jpg" class="img-circle"/>
 
                 <h2>
@@ -344,7 +344,23 @@
                     </small>
                 </p> -->
             </div>
-            
+
+            <div class="col-lg-4 text-center">
+                <img src="small/James-Tan.jpg" class="img-circle"/>
+
+                <h2>
+                    James Tan
+                </h2>
+				<h4>
+					Member
+				</h4>
+
+<!--                <p class="text-left">
+                    <small>
+                        <php include 'pages/board_kevin.php'; ?>
+                    </small>
+                </p> -->
+            </div>            
         </div>
     </div>
 </div>
