@@ -61,11 +61,12 @@
 </div>
 
 <div class="x-banner">
-    <? if($_REQUEST['message'] == 'thanks') { ?>
-        <div class="container">
-            <h1 style="position:absolute;left:0;right:0;text-align:center;color:white">Thank you!</h1>
-        </div>
-    <? } ?>
+    <?php
+        if (isset($_SESSION['notice'])) {
+            echo '<div class="container" style="position:absolute;top: 12px;left:0;right:0;text-align:center;color:white"><div class="alert alert-info">' . $_SESSION['notice'] . '</div></div>';
+            unset($_SESSION['notice']);
+        }
+    ?>
     <img src="large/children_in_field.jpg"/>
 </div>
 
@@ -376,12 +377,6 @@
 
             <div class="row">
                 <div class="col-lg-4">
-                    <?php
-                    if (isset($_SESSION['notice'])) {
-                        echo '<div class="alert alert-info">' . $_SESSION['notice'] . '</div>';
-                        unset($_SESSION['notice']);
-                    }
-                    ?>
                     <h4>Send us a note:</h4>
 
                     <form id="contact_us" action="mail.php" method="post">
