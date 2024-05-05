@@ -1,5 +1,5 @@
 Options -Indexes
 RedirectMatch 404 /\.git
 RewriteEngine On
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://www.meridianfoundation.org/$1 [R,L]
+RewriteCond %{HTTP_HOST}  !^www\.meridianfoundation\.org$ [NC]
+RewriteRule ^(.*) https://www.meridianfoundation.org/$1 [L,R]
