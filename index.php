@@ -429,7 +429,7 @@
                         </li>
                         <li class="">
                             <span class="glyphicon glyphicon-facetime-video"></span>
-                            <a href="http://www.youtube.com/user/MeridianFoundation">YouTube</a>
+                            <a href="https://www.youtube.com/@MeridianFoundationSF">YouTube</a>
                         </li>
                     </ul>
                 </div>
