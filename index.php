@@ -49,8 +49,9 @@
                 <ul class="nav navbar-nav">
                     <li><a href="http://meridianfoundation.tumblr.com">News</a></li>
                     <li><a href="#purpose">Purpose</a></li>
+                    <li><a href="#eastbay">East Bay Lights</a></li>
                     <li><a href="#programs">Programs</a></li>
-                    <li><a href="#partnerships">Partnerships</a></li>
+                    <!-- <li><a href="#partnerships">Partnerships</a></li> -->
                     <li><a href="#donations">Donations</a></li>
                     <li><a href="#board">Board</a></li>
                     <li><a href="#contact">Contact</a></li>
@@ -208,9 +209,9 @@
     </div>
 </div>
 	
-<div class="x-banner"><img src="large/exercise.jpg"/></div>
+<!-- <div class="x-banner"><img src="large/exercise.jpg"/></div> -->
 
-<div id="partnerships">
+<!-- <div id="partnerships">
     <a name="partnerships"></a>
 
     <div class="container" style="margin-bottom:45px;padding-top: 48px;">
@@ -218,7 +219,9 @@
 
         <div class="row">
             <div class="col-lg-12">
-                <?php include 'pages/partnerships.php'; ?>
+                <?php 
+                #include 'pages/partnerships.php'; 
+                ?>
             </div>
         </div>
         <hr>
@@ -239,7 +242,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class="x-banner"><img src="large/high_school.jpg"/></div>
 
