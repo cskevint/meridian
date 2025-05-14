@@ -195,7 +195,7 @@
 				<p>Diana talks about how she became involved serving as an animator for the Junior Youth Spiritual Empowerment Program.</p>
 			</div>
         </div>
-        <hr>
+        <!-- <hr>
  		<div class="row">
      		<div class="col-lg-4">
 				<h3>Increase the Peace</h3>
@@ -204,7 +204,7 @@
         	<div class="col-lg-8 text-center">
 				<iframe style="aspect-ratio: 16 / 9; width: 100%;" src="//www.youtube.com/embed/zQQ_2kzaZ8c" frameborder="0" allowfullscreen></iframe>
 			</div>
-		</div>
+		</div> -->
     </div>
 </div>
 	
