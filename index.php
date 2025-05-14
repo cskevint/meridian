@@ -261,107 +261,42 @@
         <h1>Board</h1>
 
         <div class="row">
-            <div class="col-lg-4 text-center">
-                <img src="small/Selena-Trotter.jpg" class="img-circle"/>
-
-                <h2>
-                    Selena Trotter
-                </h2>
-				<h4>
-					Executive Director
-				</h4>
-
-                <!-- <p class="text-left">
-                    <small>
-                        <php include 'pages/board_selena.php'; ?>
-                    </small>
-                </p> -->
-            </div>
-            <div class="col-lg-4 text-center">
-                <img src="small/Saman-Farid.jpg" class="img-circle"/>
-
-                <h2>
-                    Saman Farid
-                </h2>
-				<h4>
-					Treasurer
-				</h4>
-
-<!--                <p class="text-left">
-                    <small>
-                        <php include 'pages/board_kevin.php'; ?>
-                    </small>
-                </p> -->
-            </div>			
-            
-            <div class="col-lg-4 text-center">
+            <div class="col-lg-3 text-center">
                 <img src="small/Milly-Farid.jpg" class="img-circle"/>
-
                 <h2>
                     Amelia Farid
                 </h2>
 				<h4>
-					Secretary
+                    Exeucutive Director
 				</h4>	
-			
-
-                <!-- <p class="text-left">
-                    <small>
-                        <php include 'pages/board_oliver.php'; ?>
-                    </small>
-                </p> -->
             </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-4 text-center">
+            <div class="col-lg-3 text-center">
+                <img src="small/Saman-Farid.jpg" class="img-circle"/>
+                <h2>
+                    Saman Farid
+                </h2>
+                <h4>
+                    President
+                </h4>
+            </div>			
+            <div class="col-lg-3 text-center">
+                <img src="small/Parham-Aghdasi.jpg" class="img-circle"/>
+                <h2>
+                    Parham Aghdasi
+                </h2>
+                <h4>
+                    Treasurer
+                </h4>
+            </div>
+            <div class="col-lg-3 text-center">
                 <img src="small/Deanne-LaRue.jpg" class="img-circle"/>
-
                 <h2>
                     Deanne LaRue
                 </h2>
 				<h4>
 					Adviser
 				</h4>
-
-                <!-- <p class="text-left">
-                    <small>
-                        <php include 'pages/board_deanne.php'; ?>
-                    </small>
-                </p> -->
             </div>
-            <div class="col-lg-4 text-center">
-                <img src="small/Kevin-Trotter.jpg" class="img-circle"/>
-
-                <h2>
-                    Kevin Trotter
-                </h2>
-				<h4>
-					Member
-				</h4>
-
-<!--                <p class="text-left">
-                    <small>
-                        <php include 'pages/board_kevin.php'; ?>
-                    </small>
-                </p> -->
-            </div>
-
-            <div class="col-lg-4 text-center">
-                <img src="small/James-Tan.jpg" class="img-circle"/>
-
-                <h2>
-                    James Tan
-                </h2>
-				<h4>
-					Member
-				</h4>
-
-<!--                <p class="text-left">
-                    <small>
-                        <php include 'pages/board_kevin.php'; ?>
-                    </small>
-                </p> -->
-            </div>            
         </div>
     </div>
 </div>
@@ -404,10 +339,10 @@
                 <div class="col-lg-4">
                     <h4>Contact Details</h4>
                     <ul id="contact_details">
-                        <li class="">
+                        <!-- <li class="">
                             <span class="glyphicon glyphicon-earphone"></span>
                             (+1) (650) 999-0019
-                        </li>
+                        </li> -->
                         <li class="">
                             <span class="glyphicon glyphicon-envelope"></span>
                             <script type="text/javascript">
@@ -417,7 +352,7 @@
                         </li>
                         <li class="">
                             <span class="glyphicon glyphicon-road"></span>
-                            PO Box #1273, San Mateo, CA 94401
+                            14020 San Pablo Ave. San Pablo CA 94806
                         </li>
                         <li class="">
                             <span class="glyphicon glyphicon-thumbs-up"></span>
