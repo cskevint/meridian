@@ -2,7 +2,7 @@
     100% of all contributions go directly to fund the programs we support.&nbsp; Foundation staff and business expenses are contributed voluntarily or by the for-profit sponsoring company. Meridian is a 501c3 not for profit charity, EIN # 68-0444965.&nbsp;&nbsp;
 </p>
 <p>
-    To make a donation by check, you may send it to our <a href="#contact">PO Box listed below</a>.
+    To make a donation by check, you may send it to our <a href="#contact">address listed below</a>.
 </p>
 <table class="donations">
 <tr>
