@@ -79,6 +79,24 @@
     </div>
 </div>
 
+<div class="x-banner"><img src="large/eastbay.jpg" alt=""></div>
+
+<div id="eastbay">
+    <a name="eastbay"></a>
+
+    <div class="container" style="margin-bottom:45px;padding-top: 48px;">
+        <h1>East Bay Lights Education Programs in Richmond, CA</h1>
+        <div class="row">
+            <div class="col-lg-12">
+                <p>The East Bay Lights program was initiated in 2022 in response to the difficulties faced by students in the Richmond and San Pablo neighborhoods in the east bay. A key concern shapes the vision of the program: How can the immense potential latent within each young person be released and channeled towards the betterment of the world? To learn about this question, EBL gives special attention to the areas of education, career pathways, and service to the community.</p>
+                <p>EBL offers after school language and math tutoring that goes beyond academic instruction to foster attitudes and habits that enable students to take charge of their own learning. EBL interns, local upperclassmen in high school (mainly Richmond High) and college students (mostly Contra Costa Community College), play a vital role in this space as tutors to those younger than themselves. These interns also receive special mentorship and support as they navigate the transition to tertiary education, take on greater financial responsibilities in their families, and begin work. An annual summer program has assisted students to enhance capabilities related to expression, scientific thinking, numeracy, and service.</p>
+                <p>The tutorial space for middle schoolers emerged to address challenges posed by the pandemic. It began with one-on-one tutoring with middle schoolers in their homes, with a focus on improving their English language skills. With experience, it became clear that many youth needed assistance with basic math skills. The program then began to offer math tutoring for participants, as well as relevant training for tutors. A week-long winter break math camp was held in 2022 that gave us experience with group tutoring possibilities. Then in summer 2023, we held a six-week-long afternoon math and literacy tutorial program camp. The group tutorial space, which continued the model of one-on-one peer tutoring with the addition of collective math and word games, yielded such positive results that it has been continued on a weekly basis, serving around 30 middle school participants. The program currently supports 10 college and high school interns. </p>
+                <p></p>For more information, see <a href="http://eastbaylights.us">eastbaylights.us</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="x-banner"><img src="large/large_group.jpg"/></div>
 
 <div id="programs">
@@ -168,9 +186,9 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row" style="margin-top: 20px;">
             <div class="col-lg-8 text-center">
-                <iframe src="https://player.vimeo.com/video/144407938" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                <iframe src="https://player.vimeo.com/video/144407938" style="aspect-ratio: 16 / 9; width: 100%;"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
             <div class="col-lg-4">
 				<h3>Diana's Junior Youth Group</h3>
@@ -184,7 +202,7 @@
 				<p>Kids around California work together to bring social change by talking about and finding solutions on how to live in a safer and more connected community.</p>
 			</div>
         	<div class="col-lg-8 text-center">
-				<iframe width="560" height="315" src="//www.youtube.com/embed/zQQ_2kzaZ8c" frameborder="0" allowfullscreen></iframe>
+				<iframe style="aspect-ratio: 16 / 9; width: 100%;" src="//www.youtube.com/embed/zQQ_2kzaZ8c" frameborder="0" allowfullscreen></iframe>
 			</div>
 		</div>
     </div>
