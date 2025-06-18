@@ -49,7 +49,7 @@
                 <ul class="nav navbar-nav">
                     <li><a href="http://meridianfoundation.tumblr.com">News</a></li>
                     <li><a href="#purpose">Purpose</a></li>
-                    <li><a href="#eastbay">East Bay Lights</a></li>
+                    <!-- <li><a href="#eastbay">East Bay Lights</a></li> -->
                     <li><a href="#programs">Programs</a></li>
                     <!-- <li><a href="#partnerships">Partnerships</a></li> -->
                     <li><a href="#donations">Donations</a></li>
