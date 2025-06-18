@@ -80,9 +80,9 @@
     </div>
 </div>
 
-<div class="x-banner"><img src="large/eastbay.jpg" alt=""></div>
+<!-- <div class="x-banner"><img src="large/eastbay.jpg" alt=""></div> -->
 
-<div id="eastbay">
+<!-- <div id="eastbay">
     <a name="eastbay"></a>
 
     <div class="container" style="margin-bottom:45px;padding-top: 48px;">
@@ -96,7 +96,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class="x-banner"><img src="large/large_group.jpg"/></div>
 
@@ -371,10 +371,10 @@
                                 document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linkText + "</a>");
                             </script>
                         </li>
-                        <li class="">
+                        <!-- <li class="">
                             <span class="glyphicon glyphicon-road"></span>
                             14020 San Pablo Ave. San Pablo CA 94806
-                        </li>
+                        </li> -->
                         <li class="">
                             <span class="glyphicon glyphicon-thumbs-up"></span>
                             <a href="http://www.facebook.com/pages/Meridian-Foundation/249104004919?ref=nf">Facebook</a>
